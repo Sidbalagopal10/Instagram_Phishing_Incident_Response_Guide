@@ -1,0 +1,30 @@
+Disclaimer: This is a true incident which occured to me almost two years ago where I unknowingly clicked a phishing link in a SMS sent by a friend who's account was apparently compromised as well. The account asked me for my number and then asked me to send the link from the SMS to that person and the next thing I knew, I was locked out of my account. I advise everyone not to commit the same mistakes as I did in the past.
+
+Incident Response Plan:
+
+1. Preparation:
+Familiarizing with common phishing tactics to recognize signs of a scam.
+Enable Two-Factor Authentication (2FA) on Instagram and other social accounts to protect against unauthorized access.
+
+2. Identification:
+Signs of Compromise: If you've been logged out of Instagram or notice suspicious activity, your account may be compromised.
+Verify Unauthorized Actions: Look for unusual posts, messages, or profile changes.
+
+3. Containment:
+Stop Engagement: Cease any interaction with the phishing message or link.
+Avoid Engaging Compromised Accounts: Do not communicate further on Instagram with accounts you suspect to be hacked.
+
+4. Eradication:
+Reset Password: Use Instagram's "Forgot Password?" feature to regain access.
+Report the Compromised Account: Use Instagram’s Help Center to report the hack.
+Review Account Access: Check your login activity under Settings > Security > Login Activity and remove any unknown sessions.
+
+5. Recovery and Remediation:
+Enable 2FA: Protect your account by enabling 2FA via an authentication app.
+Check Linked Accounts: Review all associated email addresses and phone numbers to ensure no unauthorized changes.
+Change Passwords on Similar Accounts: Update passwords on any other accounts with similar credentials.
+
+6. Lessons Learned:
+Analyze why the phishing attempt was successful to avoid future incidents.
+Raise Awareness: Inform others who might have received the same phishing message.
+Enable Login Alerts: Turn on Instagram login alerts to receive notifications of any new logins.
